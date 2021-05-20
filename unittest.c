@@ -36,7 +36,7 @@ const int TEST_TREE_VALUES[NUM_TEST_TREES][MAX_TEST_TREE_SIZE] =  {
   { 32, 16 },
   { 32, 64 },
   { 32 },
-  {}
+  //{}
 };
 
 const int TEST_TREE_SIZES[NUM_TEST_TREES] = { 13, 5, 12, 4, 10, 2, 2, 1, 0 };
@@ -52,7 +52,7 @@ const int TEST_TREE_PATH_SUMS[NUM_TEST_TREES][MAX_TEST_TREE_SIZE] = {
   { 48 },
   { 96 },
   { 32 },
-  {}
+  //{}
 };
 const int TEST_TREE_NUM_PATH_SUMS[NUM_TEST_TREES] = { 6, 2, 4, 2, 1, 1, 1, 1, 0 };
 #define MAX_TEST_TREE_PATH_SUM 550
